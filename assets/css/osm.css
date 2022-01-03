@@ -21,6 +21,7 @@ div.olLayerDiv {
 }
 .olLayerGoogleV3.olLayerGoogleCopyright {
     right: auto !important;
+    /*This is a new line for add Kevin Team*/
 }
 .olLayerGooglePoweredBy {
     left: 2px;
